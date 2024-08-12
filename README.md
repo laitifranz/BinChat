@@ -1,5 +1,6 @@
 <div align="center">
     <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white"></a>
+      <a href="https://ai.google.dev/competition"><img alt="Gemini" src="https://img.shields.io/badge/Gemini API Developer Competition-4285F4?logo=Google&logoColor=white"></a>
     <a href="https://deepmind.google/technologies/gemini/"><img alt="Gemini" src="https://img.shields.io/badge/Google Gemini-8E75B2?logo=googlegemini&logoColor=white"></a>
 </div>
 
@@ -117,6 +118,15 @@ The app relies on system instructions that define the behavior and tone of the r
 
 
 ## Demo
+
+- [YouTube video](https://youtu.be/PVxITk1xUhE?si=4zlyG-PEjmL06s6u) uploaded for the Competition.
+
+- The screenshots of the 5 tabs:
+
+   | Home  | Explore | Chat - Photo input | Chat - Text input| Learn | Settings |
+   |:-------:|:---------:|:-------:|:-------:|:-------:|:----------:|
+   | ![Home Image](assets/readme/home.png) | ![Explore Image](assets/readme/explore.png) | ![Chat Image](assets/readme/chat_photo.jpg) | ![Chat Image](assets/readme/chat_text.jpg) | ![Learn Image](assets/readme/learn.png) | ![Settings Image](assets/readme/settings.png) |
+
 
 ## Installation
 To install and test BinChat, follow these steps:
